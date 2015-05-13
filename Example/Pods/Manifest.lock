@@ -1,0 +1,14 @@
+PODS:
+  - HaidoraPopupView (0.1.0)
+
+DEPENDENCIES:
+  - HaidoraPopupView (from `../`)
+
+EXTERNAL SOURCES:
+  HaidoraPopupView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HaidoraPopupView: b13642eb3ddcde2d1df2197c5013852836281e70
+
+COCOAPODS: 0.35.0
